@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CSCarrousel_Example' do
+  pod 'CSCarrousel', :path => '../'
+
+  target 'CSCarrousel_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
