@@ -1,0 +1,6 @@
+framework module CSCarrousel {
+  umbrella header "CSCarrousel-umbrella.h"
+
+  export *
+  module * { export * }
+}

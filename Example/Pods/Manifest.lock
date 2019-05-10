@@ -1,0 +1,27 @@
+PODS:
+  - CSCarrousel (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CSCarrousel (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CSCarrousel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CSCarrousel: e22d335c3cc4bc176e6c49f33a1e11e8c67cfb12
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 82731af6bdf5f48b09c648e7b5615d222c169928
+
+COCOAPODS: 1.5.3
