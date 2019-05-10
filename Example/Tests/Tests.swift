@@ -1,5 +1,4 @@
 import XCTest
-import CSCarrousel
 
 class Tests: XCTestCase {
     
