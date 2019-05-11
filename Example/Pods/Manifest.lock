@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CSCarrousel: e22d335c3cc4bc176e6c49f33a1e11e8c67cfb12
+  CSCarrousel: 80d95e68474a3965bafbf22ff3544f9c533c90d8
 
 PODFILE CHECKSUM: f9e8b2569ed8fcffc57f75c74d7adfdaffbd59ab
 

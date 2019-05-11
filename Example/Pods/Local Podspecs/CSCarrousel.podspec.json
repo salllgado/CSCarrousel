@@ -2,19 +2,21 @@
   "name": "CSCarrousel",
   "version": "0.1.0",
   "summary": "A short description of CSCarrousel.",
+  "swift_version": "4.0",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/salllgado@hotmail.com.br/CSCarrousel",
+  "homepage": "https://github.com/salllgado/CSCarrousel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "salllgado@hotmail.com.br": "chrystian.santos@ibm.com"
+    "salllgado@hotmail.com.br": "Chrystian Salgado"
   },
   "source": {
-    "git": "https://github.com/salllgado@hotmail.com.br/CSCarrousel.git",
+    "git": "https://github.com/salllgado/CSCarrousel.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/salllgadin",
   "platforms": {
     "ios": "8.0"
   },
