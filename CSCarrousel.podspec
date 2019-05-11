@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/salllgado@hotmail.com.br/CSCarrousel'
+  s.homepage         = 'https://github.com/salllgado/CSCarrousel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'salllgado@hotmail.com.br' => 'chrystian.santos@ibm.com' }
+  s.author           = { 'salllgado@hotmail.com.br' => 'Chrystian Salgado' }
   s.source           = { :git => 'https://github.com/salllgado@hotmail.com.br/CSCarrousel.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+s.social_media_url = 'https://twitter.com/salllgadin'
 
   s.ios.deployment_target = '8.0'
 
