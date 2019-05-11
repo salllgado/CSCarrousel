@@ -22,7 +22,7 @@ pod 'CSCarrousel'
 
 ## Author
 
-salllgado@hotmail.com.br, chrystian.santos@ibm.com
+salllgado@hotmail.com.br, Chrystian Salgado
 
 ## License
 
